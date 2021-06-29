@@ -1,4 +1,6 @@
-#DevCord chatApp on android
+# DevCord chatApp on android
+https://devchat-v3.herokuapp.com/ :- Check this out here
+# Samples
 ![Screenshot_2021-06-30-00-52-18-11](https://user-images.githubusercontent.com/75971776/123855636-c1a54b80-d93d-11eb-8b6b-2f6c3bd66cbc.jpg)
 ![Screenshot_2021-06-30-00-52-01-71](https://user-images.githubusercontent.com/75971776/123855643-c407a580-d93d-11eb-9ca4-44e70f54b727.jpg)
 ![Screenshot_2021-06-30-00-51-11-63](https://user-images.githubusercontent.com/75971776/123855646-c4a03c00-d93d-11eb-8ca4-42e05cee83ff.jpg)
@@ -12,7 +14,7 @@
 ![Screenshot_2021-06-30-00-50-38-86](https://user-images.githubusercontent.com/75971776/123855681-cbc74a00-d93d-11eb-8deb-acf72b35a6a8.jpg)
 # DevCord App Web
 ![Dev (1)-1](https://user-images.githubusercontent.com/75971776/123841458-34f29180-d92d-11eb-87ae-c8f1741d3e2a.png)
-https://devchat-v3.herokuapp.com/ :- Check it out here.
+
 ![Screenshot (280)](https://user-images.githubusercontent.com/75971776/123841617-64090300-d92d-11eb-9523-4328395ecbfa.png)
 ![Screenshot (279)](https://user-images.githubusercontent.com/75971776/123841703-81d66800-d92d-11eb-841a-6b359d3d32eb.png)
 ![Screenshot (260)](https://user-images.githubusercontent.com/75971776/123841769-987cbf00-d92d-11eb-9edf-b154e9665e23.png)
