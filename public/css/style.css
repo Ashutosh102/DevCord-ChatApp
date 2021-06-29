@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-
+.logo{
+    display: block;
+    margin: auto;
+    height: 120px;
+    width: 120px;
+}
 
 
 * {
@@ -11,7 +16,11 @@
 body {
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
 	font-size: 16px;
-	background:rgb(11, 11, 73);
+	background-image: linear-gradient(
+    rgb(11, 20, 63),
+    rgb(22, 29, 102),
+    rgb(39, 20, 150)
+  );
 	margin: 20px;
 }
 
@@ -198,3 +207,26 @@ a {
 		display: none;
 	}
 }
+h1 {
+	margin-top: 12px;
+	font-size: 30px;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	text-align: center;
+	color: bisque;
+  }
+  h2 {
+	margin-top: 12px;
+	font-size: 30px;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	text-align: center;
+	color: rgb(240, 206, 15);
+  }
+  .footer-container {
+	background-color: rgb(19, 18, 66);
+  }
+  .footer-image{
+	display: block;
+	margin:auto;
+	height: 220px;
+	width: 300px;
+  }
